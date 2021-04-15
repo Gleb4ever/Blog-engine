@@ -8,13 +8,10 @@ Stack used:
 * Postgres 12
 * Swagger UI
 
-
  Getting Started:
  
-Clone repo to your machine
-
+Clone repo to your machine:
 $ git clone ${repo.url}
-
 
 Prerequisites:
 
@@ -24,6 +21,6 @@ IntellijIDEA
 
 Setup and running:
 
-1. Run docker-compose up -d, this will deploy Postgres 12 container. Share a drive to docker if you are on Windows
+1. Run docker-compose up -d, this will deploy Postgres 12 container
 2. Run project in IntellijIDEA
 3. Goto http://localhost:8080
